@@ -7,8 +7,8 @@ const App = () => {
   return (
     <div>
       {/* <UseState /> */}
-      {/* <UseEffect/> */}
-      <UseReducer />
+      <UseEffect/>
+      {/* <UseReducer /> */}
     </div>
   )
 }
